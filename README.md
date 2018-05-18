@@ -1,4 +1,4 @@
-# Mathematical Modeling and Simulation(Seoul National University, Spring 2016)
+# Level Set Method for the Motion of Soap Bubble
 
 ## About this Project
 
